@@ -1,4 +1,4 @@
-# The Bulb Africa Engineering Leadership Program - Curriculum
+# Engineering Leadership Program - Curriculum
 
 ## Design
 
